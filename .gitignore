@@ -40,3 +40,5 @@ options.txt
 /out
 #git stuff
 *.orig
+/.nb-gradle/
+.nb-gradle-properties
